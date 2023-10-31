@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Peter",
+      "address": "17/30, Civil lines, North Delhi",
+      "email": "Peter@gmail.com",
+      "mobileno": "1234567890",
+      "accountno": "1234567891",
+      "password": "123456"
+    },
+    {
+      "name": "Anaisha",
+      "address": "Model Town, Delhi",
+      "email": "anaisha@gmail.com",
+      "mobileno": "12369871236",
+      "accountno": "1234567890",
+      "password": "Ready@123",
+      "confirmpassword": "Ready@123",
+      "id": 2
+    },
+    {
+      "name": "Preeti",
+      "address": "VIshwas Nagar, Delhi",
+      "email": "preeti@gmail.com",
+      "mobileno": "1236542580",
+      "accountno": "1234567890",
+      "password": "Ready@123",
+      "confirmpassword": "Ready@123",
+      "id": 3
+    }
+  ]
+}

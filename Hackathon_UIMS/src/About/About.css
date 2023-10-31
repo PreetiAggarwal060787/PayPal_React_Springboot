@@ -1,0 +1,25 @@
+.abdiv1{
+    height: 550px;
+    width: 100%;
+}
+.abdiv2{
+    height: 400px;
+    width: 100%;
+}
+.abdiv3{
+    width: 90%;
+}
+.bh1{
+    font-weight: 500;
+    font-weight: bolder;
+    text-align: left;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+.bh2{
+    font-weight: 100;
+    font-weight: bolder;
+    text-align: left;
+    margin-right: 5px;
+    margin-left: 20px;
+}

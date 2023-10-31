@@ -1,0 +1,41 @@
+.navcol{
+    background-color:whitesmoke;
+    font-weight: 800;
+
+}
+
+.loginbtn{
+    background-color: rgb(64, 8, 66);
+    text-align: right;
+}   
+
+.logo {
+    width: 150px;
+    height: 80px;
+    margin-left: 10px;
+    border-radius: 20%;
+    
+}
+.b1{
+    margin-left: 150px;
+    border-radius: 2%;
+    background-color:whitesmoke;
+    color: black;
+    font-size: large;
+    font-weight: 600;
+    width: 150px;
+    margin-top: -5px;
+    
+    
+}   
+
+.b2{
+    margin-left: 2px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: large;
+    border-radius: 2%;
+    font-weight: 600;
+    width: 150px;
+    margin-top: -5px;
+}
